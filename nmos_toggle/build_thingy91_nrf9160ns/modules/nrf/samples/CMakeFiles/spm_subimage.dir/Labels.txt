@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+/home/alejandro/nrf/ncs/nrf/nmos_toggle/build_thingy91_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule

@@ -1,0 +1,2 @@
+"BOARD_ROOT":"/home/alejandro/nrf/ncs/nrf"
+"DTS_ROOT":"/home/alejandro/nrf/ncs/nrf"

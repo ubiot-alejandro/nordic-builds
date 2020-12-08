@@ -1,0 +1,6 @@
+osource "/home/alejandro/nrf/ncs/nrf/Kconfig.nrf"
+
+osource "/home/alejandro/nrf/ncs/bootloader/mcuboot/zephyr/Kconfig"
+
+osource "/home/alejandro/nrf/ncs/nrfxlib/Kconfig.nrfxlib"
+
